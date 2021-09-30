@@ -1,4 +1,4 @@
-- Data: image.npy
+- Data: images.npy
 
   - Image shape: 108x512x512        ( index, y, x )
 
